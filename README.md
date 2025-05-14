@@ -22,5 +22,14 @@
 | Lousada ↔ PL  | 10.81.129.8/30  | 255.255.255.252 | 2           | 4     |
 | Porto ↔ PP    | 10.81.129.12/30 | 255.255.255.252 | 2           | 4     |
 
+## VLANS
 
+- VLAN 100
+  - Produção
+- VLAN 200
+  - Gestão
+- VLAN 300
+  - Vendas
+- VLAN 400
+  - Informática
 
